@@ -1,9 +1,9 @@
 
-#Python with MySQL Connectivity: Database & Table
+# Python with MySQL Connectivity: Database & Table
 
 In order to use MySQL connectivity with Python, you must have some knowledge of MySQL
 
-#What is MySQL?
+# What is MySQL?
 
 MySQL is an Open-Source database and one of the best type of RDBMS (Relational Database Management System). Co-founder of MySQLdb is Michael Widenius’s, and also MySQL name derives from the daughter of Michael.
 
