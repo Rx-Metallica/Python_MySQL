@@ -4,11 +4,11 @@ import mysql.connector as connector
 class DB:
     def __init__(self):
         self.con=connector.connect(
-        host="localhost",
-        port="3306",
-        user='root',
-        password='aditya',
-        database='pythontest')
+        host="",
+        port="",
+        user='',
+        password='',
+        database='')
         query='create table if not exists user(userId int PRIMARY KEY,userName varchar(200),phone varchar(12))'
         cur=self.con.cursor()
         cur.execute(query)
