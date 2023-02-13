@@ -1,4 +1,3 @@
-
 # Python with MySQL Connectivity: Database & Table
 
 In order to use MySQL connectivity with Python, you must have some knowledge of MySQL
@@ -11,14 +10,14 @@ MySQL is an Open-Source database and one of the best type of RDBMS (Relational D
 # Install MySQL in Linux/Unix:
 Download RPM package for Linux/Unix from Official site: https://www.mysql.com/downloads/
 
-#Install MySQL in Windows
+# Install MySQL in Windows
 
 Download MySQL database exe from [official site](https://www.mysql.com/downloads/) and install as usual normal installation of software in Windows. 
 
 
 
 
-##How to Install MySQL Connector Library for Python
+## How to Install MySQL Connector Library for Python
 
 Here is how to connect MySQL with Python:
 
